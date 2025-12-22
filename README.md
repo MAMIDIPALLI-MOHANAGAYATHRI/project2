@@ -1,3 +1,3 @@
 # new Project
- This project was created from local system
- Created by Shradha Khapra
+ This project was created from local system.
+ Created by Shradha Khapra.
